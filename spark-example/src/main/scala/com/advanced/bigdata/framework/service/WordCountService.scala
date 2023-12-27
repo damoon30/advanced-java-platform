@@ -1,6 +1,5 @@
 package com.advanced.bigdata.framework.service
 
-import com.advanced.bigdata.framework.application.WordCountApplication.spark
 import com.advanced.bigdata.framework.dao.WordCountDao
 import org.apache.spark.rdd.RDD
 

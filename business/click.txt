@@ -1,0 +1,5 @@
+{"pin":"test1", "dt":"2023-12-21", "click":100, "sku_id": 123}
+{"pin":"test2", "dt":"2023-12-27", "click":200, "sku_id": 123}
+{"pin":"test3", "dt":"2023-12-27", "click":300, "sku_id": 123}
+{"pin":"test4", "dt":"2023-12-27", "click":400, "sku_id": 123}
+{"pin":"test6", "dt":"2023-12-27", "click":600, "sku_id": 123}

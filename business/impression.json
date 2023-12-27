@@ -1,0 +1,8 @@
+{"pin":"test1", "dt":"2023-12-21", "impression":1000, "flag": 1}
+{"pin":"test1", "dt":"2023-12-22", "impression":1000, "flag": 1}
+{"pin":"test2", "dt":"2023-12-22", "impression":2000, "flag": 1}
+{"pin":"test3", "dt":"2023-12-23", "impression":3000, "flag": 1}
+{"pin":"test4", "dt":"2023-12-24", "impression":4000, "flag": 1}
+{"pin":"test5", "dt":"2023-12-25", "impression":5000, "flag": 1}
+{"pin":"test6", "dt":"2023-12-27", "impression":6000, "flag": 1}
+{"pin":"test6", "dt":"2023-12-27", "impression":6000, "flag": 1}

@@ -15,6 +15,16 @@
             <groupId>org.apache.spark</groupId>
             <artifactId>spark-core_2.13</artifactId>
             <version>3.5.0</version>
+            <exclusions>
+                <exclusion>
+                    <artifactId>avro-mapred</artifactId>
+                    <groupId>org.apache.avro</groupId>
+                </exclusion>
+                <exclusion>
+                    <artifactId>avro</artifactId>
+                    <groupId>org.apache.avro</groupId>
+                </exclusion>
+            </exclusions>
         </dependency>
 
         <dependency>
@@ -34,12 +44,6 @@
             <artifactId>lombok</artifactId>
             <version>RELEASE</version>
             <scope>compile</scope>
-        </dependency>
-
-        <dependency>
-            <groupId>org.javatuples</groupId>
-            <artifactId>javatuples</artifactId>
-            <version>1.2</version>
         </dependency>
 
     </dependencies>
